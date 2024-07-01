@@ -1,1 +1,1 @@
-# Password-Generator
+The Password Generator project is a Python script designed to create secure, random passwords based on user specifications. Users can input the desired number of letters, symbols, and numbers for their password. The script then generates a list of random characters accordingly, shuffles them to ensure randomness, and combines them into a final password. This project includes two difficulty levels: an easy level where characters are appended in sequence, and a hard level where the characters are shuffled for added security.
